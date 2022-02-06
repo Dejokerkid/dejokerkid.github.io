@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## ![image](https://user-images.githubusercontent.com/98845417/152705386-a8705634-7cd9-434f-8c61-88e0074dfb94.png)
+
 
 You can use the [editor on GitHub](https://github.com/Dejokerkid/dejokerkid.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
