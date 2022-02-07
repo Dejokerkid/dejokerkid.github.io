@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/98845417/152705507-72cc8c72-0985-41f5-b169-6860561031d7.png)
 
-## Type of cats
+## Cats
 
 - **SILLY** 
 
@@ -120,4 +120,4 @@
 ![image](https://user-images.githubusercontent.com/98845417/152707591-fd9d2441-438a-42c0-8bfe-2fc87a9b56f2.png)
 
 # Videos
-Coming Soon
+Coming Soon (More Cats😇)
