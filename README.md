@@ -145,7 +145,7 @@
 # Videos(More Cats😇)
 
 
-<em>I've got a challenge for you,see if you can watch all the videos with smiling</em>
+<em>I've got a challenge for you,see if you can watch all the videos without smiling</em>
 <br>
 <em>Goodluck!😄👍</em>
 
@@ -155,4 +155,14 @@
 
 <strong> [Try Not To Laugh-EXTREME](https://www.youtube.com/watch?v=QtC3Bo9B0yI)</strong>
 
+________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
+
+### [Maybe](https://user-images.githubusercontent.com/98845417/153679074-befda571-75e6-42e4-a7c1-0acd6b265ac2.mp4)
+
+
+### [Click](https://user-images.githubusercontent.com/98845417/153679134-92a29501-627a-48da-a787-c91522b23c9d.mp4)
+
+
+### [Me](https://user-images.githubusercontent.com/98845417/153679334-7a19f7c1-21d9-4ac4-92c8-7622e8170151.mp4)
 
