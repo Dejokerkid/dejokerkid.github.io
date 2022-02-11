@@ -159,46 +159,4 @@
 
 
 
-<html>
-    <head>
-        <title>CatWrld</title>
-        
-        <meta charset="utf-8">
-        <meta name="keywords"
-              content="cats">
-        
-        <style>
-            h1 {
-                color : blue;
-            }
-        </style>
-        
-        <link rel="stylesheet"
-              href="css/default.css" >
-        
-        <script src="js/default.js"
-                type="text/javascript"></script>
-        
-    </head>
-    <body>
-        
-        <h1>Hello World!</h1>
-        
-        <p></p>
-        
-        <script src="js/app.js"
-                type="text/javascript"></script>
-        
-        <script type="text/javascript">
-        
-            var name = "Cats are everwhere";
-            
-            alert(name);
-        
-        </script>
-        
-    </body>
-</html>
-
-
 
