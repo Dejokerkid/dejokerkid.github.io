@@ -5,8 +5,9 @@
 
 ## Pictures(Cats🙃)
 
-- **SILLY**
-
+<ol>
+  
+- **SILLY** 
 <br>
 
 ![image](https://user-images.githubusercontent.com/98845417/152706050-41c78444-00b1-4071-8b7a-1719d2a2d6d1.png)
@@ -94,8 +95,10 @@
 
 <br><br>
 
-### Memes
+- **Memes** 
 
+</ol>
+  
 <br>
 
 -![image](https://user-images.githubusercontent.com/98845417/152707029-5cc6420e-a6ba-42ee-9376-6f8109e1d700.png)
