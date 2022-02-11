@@ -1,47 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Head Element</title>
-        
-        <meta charset="utf-8">
-        <meta name="keywords"
-              content="html,tutorial">
-        
-        <style>
-            h1 {
-                color : blue;
-            }
-        </style>
-        
-        <link rel="stylesheet"
-              href="css/default.css" >
-        
-        <script src="js/default.js"
-                type="text/javascript"></script>
-        
-    </head>
-    <body>
-        
-        <h1>Hello World!</h1>
-        
-        <p>This is a sample paragraph.</p>
-        
-        <script src="js/app.js"
-                type="text/javascript"></script>
-        
-        <script type="text/javascript">
-        
-            var name = "Yusuf Shakeel";
-            
-            alert(name);
-        
-        </script>
-        
-    </body>
-</html>
 
-
-  
 # Hello,there!
 <br>
 
@@ -199,3 +156,50 @@
 <strong> [Try Not To Laugh-HARD](https://www.youtube.com/watch?v=F22Bop-_sxo)</strong>
 
 <strong> [Try Not To Laugh-EXTREME](https://www.youtube.com/watch?v=QtC3Bo9B0yI)</strong>
+
+
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Head Element</title>
+        
+        <meta charset="utf-8">
+        <meta name="keywords"
+              content="html,tutorial">
+        
+        <style>
+            h1 {
+                color : blue;
+            }
+        </style>
+        
+        <link rel="stylesheet"
+              href="css/default.css" >
+        
+        <script src="js/default.js"
+                type="text/javascript"></script>
+        
+    </head>
+    <body>
+        
+        <h1>Hello World!</h1>
+        
+        <p>This is a sample paragraph.</p>
+        
+        <script src="js/app.js"
+                type="text/javascript"></script>
+        
+        <script type="text/javascript">
+        
+            var name = "Yusuf Shakeel";
+            
+            alert(name);
+        
+        </script>
+        
+    </body>
+</html>
+
+
+
