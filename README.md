@@ -185,14 +185,14 @@
         
         <h1>Hello World!</h1>
         
-        <p>This is a sample paragraph.</p>
+        <p></p>
         
         <script src="js/app.js"
                 type="text/javascript"></script>
         
         <script type="text/javascript">
         
-            var name = "Yusuf Shakeel";
+            var name = "Cats are everwhere";
             
             alert(name);
         
