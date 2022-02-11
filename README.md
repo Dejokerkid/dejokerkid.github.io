@@ -1,13 +1,12 @@
- # Hello,there!
+# Hello,there!
 <br>
 
-![images](https://user-images.githubusercontent.com/98845417/152705507-72cc8c72-0985-41f5-b169-6860561031d7.png)
+![image](https://user-images.githubusercontent.com/98845417/152705507-72cc8c72-0985-41f5-b169-6860561031d7.png)
 
 ## Pictures(Cats🙃)
 
-<ol>
-  
-- **SILLY** 
+- **SILLY**
+
 <br>
 
 ![image](https://user-images.githubusercontent.com/98845417/152706050-41c78444-00b1-4071-8b7a-1719d2a2d6d1.png)
@@ -95,13 +94,11 @@
 
 <br><br>
 
-- **Memes** 
+### Memes
 
-</ol>
- 
 <br>
 
-![image](https://user-images.githubusercontent.com/98845417/152707029-5cc6420e-a6ba-42ee-9376-6f8109e1d700.png)
+-![image](https://user-images.githubusercontent.com/98845417/152707029-5cc6420e-a6ba-42ee-9376-6f8109e1d700.png)
 
 ![image](https://user-images.githubusercontent.com/98845417/152707048-d8de08ae-25da-4c71-9e16-d065f507db15.png)
 
@@ -148,12 +145,10 @@
 # Videos(More Cats😇)
 
 
-<em>I've got a challenge for you,see if you can watch all the videos without smiling:)</em>
+<em>I've got a challenge for you,see if you can watch all the videos with smiling</em>
 
 <strong> [Try not to laugh-EASY](https://www.youtube.com/watch?v=mwENYk66q6M)</strong>
 
 <strong> [Try Not To Laugh-HARD](https://www.youtube.com/watch?v=F22Bop-_sxo)</strong>
 
 <strong> [Try Not To Laugh-EXTREME](https://www.youtube.com/watch?v=QtC3Bo9B0yI)</strong>
-
-
