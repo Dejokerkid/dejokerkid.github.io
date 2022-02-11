@@ -166,7 +166,7 @@
         
         <meta charset="utf-8">
         <meta name="keywords"
-              content="html,tutorial">
+              content="cats">
         
         <style>
             h1 {
