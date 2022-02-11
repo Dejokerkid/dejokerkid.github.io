@@ -6,9 +6,9 @@
 
 ## Pictures(Cats🙃)
 
-<ol>
+
   
-- **SILLY** 
+ -**SILLY** 
 <br>
 
 ![image](https://user-images.githubusercontent.com/98845417/152706050-41c78444-00b1-4071-8b7a-1719d2a2d6d1.png)
