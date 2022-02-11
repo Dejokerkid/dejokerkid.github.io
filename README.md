@@ -6,7 +6,7 @@
 
 ## Pictures(Cats🙃)
 
-
+<ol>
   
 - **SILLY** 
 <br>
@@ -98,7 +98,7 @@
 
 - **Memes** 
 
-
+</ol>
  
 <br>
 
